@@ -16,6 +16,11 @@
     <color name="colorContentConstellation">#556080</color>
     <color name="colorButtonConstellation">#673ab7</color>
 
-    <!--xptmxm2dfsdf>
+    <!--이름 입력 화면에 사용할 컬러-->
+    <color name="colorPrimaryName">#f9a11f</color>
+    <color name="colorPrimaryDarkName">#ef6c00</color>
+    <color name="colorAccentName">#ffc107</color>
+    <color name="colorContentName">#fcd837</color>
+    <color name="colorButtonName">#f9a11f</color>
 
 </resources>

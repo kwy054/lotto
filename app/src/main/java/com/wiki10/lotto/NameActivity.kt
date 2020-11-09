@@ -42,7 +42,6 @@ class NameActivity : AppCompatActivity() {
             //ResultActivity를 시작하는 Intent 만들고 startActivity로 실행
             startActivity(intent)
 
-            //여기까지 잘라내기 붙여넣기 전
 
         }
         // 뒤로가기 버튼의 클릭이벤트 리스너 설정

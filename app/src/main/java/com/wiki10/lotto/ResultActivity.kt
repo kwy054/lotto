@@ -1,9 +1,12 @@
 package com.wiki10.lotto
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import kotlinx.android.synthetic.main.activity_name.*
 import kotlinx.android.synthetic.main.activity_result.*
+import kotlin.random.Random
 
 class ResultActivity : AppCompatActivity() {
 
@@ -39,4 +42,6 @@ class ResultActivity : AppCompatActivity() {
         imageView05.setImageResource(lottoImageStartId+(result[4]-1))
         imageView06.setImageResource(lottoImageStartId+(result[5]-1))
     }
+
+
 }

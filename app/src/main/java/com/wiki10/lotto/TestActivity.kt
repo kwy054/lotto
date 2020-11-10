@@ -45,7 +45,7 @@ class TestActivity : AppCompatActivity() {
     }
 
     /**
-     * xml에서 참조할 수 있게 메소드를 정의한다
+     * xml에서 참조할 수 있게 메소드를 정의한다.
      */
     fun goConstellation(view: View) {
         //ConstellationActivity로 화면전환 하는 코드

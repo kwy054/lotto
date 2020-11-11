@@ -144,7 +144,7 @@
                 android:layout_width="140dp"
                 android:layout_height="140dp"
                 android:padding="16dp"
-                app:srcCompat="@drawable/logo" />
+                app:srcCompat="@drawable/name" />
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>
